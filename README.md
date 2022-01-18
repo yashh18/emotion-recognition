@@ -1,6 +1,8 @@
-# How the code works
+# Real-time facial landmark detection 
+
+## How the code works
 The python code detects different landmarks on the face and predicts the emotions such as smile based on it. It automatically takes a photo of that person when he smiles. Also when the two eyebrows are lifted up, the system plays a music automatically and the music stops when you blink your right eye.
-# Modules used
+## Modules used
 1. CMAKE - CMake is cross-platform free and open-source software for build automation, testing, packaging and installation of software by using a compiler-independent method
 2. DLIB - Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. It is used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments.
 3. NUMPY - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
